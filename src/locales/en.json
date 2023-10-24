@@ -1,0 +1,27 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "content-1": "Up-and-Coming Artists: Discover new talent and support independent musicians making waves in the music scene.",
+    "content-2": "Join the music revolution today and let the rhythm of life fill your world. Embrace the future of music – start your journey with us!"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service"
+  },
+  "header": {
+    "title": "Music",
+    "about": "About",
+    "login-register": "Login / Register",
+    "manage": "Manage",
+    "logout": "Logout"
+  },
+  "manage": {
+    "my_songs": "My Songs"
+  },
+  "upload": {
+    "uploads": "Upload"
+  }
+}
